@@ -206,6 +206,9 @@
   </programme><programme channel="1001" start="20260318195600 +0100" stop="20260318200600 +0100">
     <title>Branky, body, vteřiny</title>
     <desc>HDTV Zvukový popis Skryté titulky</desc>
+  </programme><programme channel="1001" start="20260318200600 +0100" stop="20260318201050 +0100">
+    <title>Losování Sportky a Šance</title>
+    <desc>HDTV</desc>
   </programme><channel id="1002">
     <display-name>ČT 2</display-name>
   </channel><programme channel="1002" start="20260316200000 +0100" stop="20260316221500 +0100">
@@ -826,10 +829,7 @@ Možná je to vaše ulice. Možná jste to vy.
     <desc>Exkluzivní zákulisí života celebrit - luxusní večírky, žhavé drby, slavnostní premiéry a módní trendy! (2026)</desc>
   </programme><channel id="1028">
     <display-name>Canal + Action</display-name>
-  </channel><programme channel="1028" start="20260316191500 +0100" stop="20260316200500 +0100">
-    <title>FBI VII (18)</title>
-    <desc>Když jsou v jeho prohlídkovém autobusu zastřeleni slavný rapper a dva dospívající fanoušci, tým zjistí, že v příběhu může být víc než jen jeho spor s jiným rapperem. Mezitím Isobel dosáhne významného milníku, kvůli kterému uvažuje o své budoucnosti v agentuře. Režie: Jon Cassar. Hrají: Missy Peregrymová (FBI SA Maggie Bell), Zeeko Zaki (FBI SA Omar Adom 'OA' Zidan), John Boyd (FBI SA Stuart Scola), Alana De La Garzaová (FBI SAC Isobel Castille), Jeremy Sisto (FBI ASAC Jubal Valentine) (2025)</desc>
-  </programme><programme channel="1028" start="20260316200500 +0100" stop="20260316223500 +0100">
+  </channel><programme channel="1028" start="20260316200500 +0100" stop="20260316223500 +0100">
     <title>Mizerové II</title>
     <desc>Detektivové Marcus Burnett a Mike Lowrey zmaří zásahem proti kukluxklanu pečlivě připravovanou akci, která měla zachytit velkou zásilku extáze do Miami. Navíc Mike při zběsilé přestřelce zranil také Marcuse. Ten zuří a uvažuje, že se nechá přeložit, což ovšem před parťákem tají. Také Mike má tajemství. Snaží se před Marcusem utajit, že se před časem sblížil s jeho sestrou Syd, agentkou protidrogové agentury DEA, která se snaží proniknout do blízkosti drogového obchodníka, Kubánce Johnnyho Tapii, a jeho ruského společníka Alexeje. Mike a Marcus jí pomohou z nesnází, když ji napadnou členové haitské mafie a pokusí se ukrást Alexejovy peníze. Díky oběma poldům tak může po zběsilé honičce předat peníze Johnnyho lidem. Zatímco Mike a Marcus zlikvidují haitský gang a v jeho domě najdou další stopu, která by jim mohla pomoci dostat se k Taipovým drogám, gangster brutálně donutí Alexeje přenechat mu své podniky. Dvojici detektivů se podaří umístit do Taipova domu odposlech, jsou však odhaleni a musí uprchnout. Zjistí přitom, že Syd pronikla k Taipovi, který jí nabízí, aby pro něj pracovala. Navrhnou jí, aby šla proti Taipovi s nimi, protože jejich metody jsou prý rychlejší a účinnější než oficiální postupy. Režie: Michael Bay. Hrají: Will Smith (Detektív Mike Lowrey), Martin Lawrence (Detektív Marcus Burnett), Jordi Mollà (Hector Juan Carlos 'Johnny' Tapia), Gabrielle Unionová (Syd), Peter Stormare (Alexei) (2003)</desc>
   </programme><programme channel="1028" start="20260316223500 +0100" stop="20260317002500 +0100">
@@ -940,6 +940,9 @@ Možná je to vaše ulice. Možná jste to vy.
   </programme><programme channel="1028" start="20260318191500 +0100" stop="20260318200500 +0100">
     <title>FBI VII (20)</title>
     <desc>Když je generální ředitel zabit cílenou explozí ve svém střešním bytě, tým musí zjistit, jak se někdo dostal do vysoce zabezpečené budovy. Jejich úkol se však dále zkomplikuje, když zjistí, že zločin může být dílem umělé inteligence. Mezitím Maggie brzdí svůj osobní život. Režie: Peter Stebbings. Hrají: Missy Peregrymová (FBI SA Maggie Bell), Zeeko Zaki (FBI SA Omar Adom 'OA' Zidan), John Boyd (FBI SA Stuart Scola), Alana De La Garzaová (FBI SAC Isobel Castille), Jeremy Sisto (FBI ASAC Jubal Valentine) (2025)</desc>
+  </programme><programme channel="1028" start="20260318200500 +0100" stop="20260318221000 +0100">
+    <title>Equalizer 2</title>
+    <desc>Pokračování úspěšného akčního thrilleru Equalizer. Denzel Washington se vrací jako bývalý člen speciální jednotky Robert McCall, který bojuje za práva a spravedlnost pro ty, kteří už ztratili veškerou naději. Režie: Antoine Fuqua. Hrají: Denzel Washington (Robert McCall), Pedro Pascal (Dave York), Ashton Sanders (Miles Whittaker), Orson Bean (Sam Rubinstein), Bill Pullman (Brian Plummer) (2018)</desc>
   </programme><channel id="1057">
     <display-name>Canal + Sport</display-name>
   </channel><programme channel="1057" start="20260316200000 +0100" stop="20260316203000 +0100">
@@ -1302,10 +1305,7 @@ Možná je to vaše ulice. Možná jste to vy.
     <desc>Příběh filmu začíná před 10 lety, na vernisáži obrazů, kdy se mladá a nadějná výtvarnice Vendula seznámí se svým budoucím partnerem a manželem Martinem. Společně založí rodinu, mají dvojčata - holčičky - předškolního věku a jednoho kluka, batole. Martin buduje kariéru ve firmě vyvíjející hračky a Vendula se stará o rodinu. Martin je většinu času v práci, snaží se zabezpečit rodinu, na kterou mu nezbývá čas, naopak Vendula se stará o děti a chod domácnosti a nemá žádný prostor pro sebe. Každý dělá pro rodinu maximum, ale zároveň se cítí nedoceněný tím druhým. Události naberou spád uzavřenou sázkou, kdy Martin slíbí, že se postará o děti a domácnost během jednoho měsíce. Je přesvědčen, že to vlastně není vůbec těžké. Nastane kolotoč humorných a nečekaných událostí, které dvojici Venduly a Martina pomyslně vrátí zase na začátek jejich vztahu. Znovu si začnou vážit jeden druhého a navzájem se respektovat. Režie: Jiří Chlumský. Hrají: Kristýna Boková (Vendula), Marek Taclík (Martin), Tomáš Hanák (Ivan), Kitty Hort (Lenka), Zuzana Stivínová (Linda) (2012)</desc>
   </programme><channel id="1006">
     <display-name>ČT 24</display-name>
-  </channel><programme channel="1006" start="20260316195557 +0100" stop="20260316200647 +0100">
-    <title>Branky, body, vteřiny</title>
-    <desc>HDTV Zvukový popis Skryté titulky</desc>
-  </programme><programme channel="1006" start="20260316200647 +0100" stop="20260316213000 +0100">
+  </channel><programme channel="1006" start="20260316200647 +0100" stop="20260316213000 +0100">
     <title>90' ČT24</title>
     <desc>HDTV Skryté titulky</desc>
   </programme><programme channel="1006" start="20260316213000 +0100" stop="20260316220000 +0100">
@@ -1635,6 +1635,9 @@ Možná je to vaše ulice. Možná jste to vy.
   </programme><programme channel="1006" start="20260318195600 +0100" stop="20260318200700 +0100">
     <title>Branky, body, vteřiny</title>
     <desc>HDTV Zvukový popis Skryté titulky</desc>
+  </programme><programme channel="1006" start="20260318200700 +0100" stop="20260318213000 +0100">
+    <title>90' ČT24</title>
+    <desc>HDTV Skryté titulky</desc>
   </programme><channel id="1059">
     <display-name>ČT Sport</display-name>
   </channel><programme channel="1059" start="20260316173000 +0100" stop="20260316204443 +0100">
@@ -1875,11 +1878,7 @@ azÂi na Annu. NapÂiÏse pro ni bÂasniÏcku a dalÏsÂi den Karasovi Ïrekne, 
     <desc>Píše se rok 1993 a Erin Brockovich, dvakrát rozvedená matka tří dětí, je bez peněz a bez práce. Neuspěje ani u soudu, kde se snaží získat odškodnění od movitého doktora, který zavinil autonehodu, při níž byla zraněna. V posledním zoufalém pokusu přesvědčí právníka Eda Masryho, který prohrál její spor o odškodné, aby ji zaměstnal jako sekretářku. Týž večer se pohádá s novým sousedem, motorkářem Georgem, který hlukem budil její děti. Tomu se rázná žena zalíbí a nabídne jí pomoc s hlídáním, kterou Erin nutně potřebuje. Při rešerši banálního případu, v němž elektrárenská firma PG&amp;amp;E chce odkoupit dům rodiny Jensenových, Erin najde lékařskou zprávu. Nechápe souvislost s obchodem, a proto se vydá do Hinkley, aby zjistila, o co jde. Narazí tak na případ znečišťování půdy a podzemních vod jedovatým chromem, které mělo pro obyvatele katastrofální důsledky. Zhoubné nemoci, genetické změny, potraty. Advokát ji sice vyhodí, protože nepřišla do práce, ale když zjistí, na co přišla, přijme ji zpátky a na její naléhání se rozhodne, že do vysoce riskantního případu půjde.</desc>
   </programme><channel id="1009">
     <display-name>Nova Action</display-name>
-  </channel><programme channel="1009" start="20260316194000 +0100" stop="20260316200500 +0100">
-    <title>Mistři zastavárny XVII (18)</title>
-    <desc>Starožitnictví Gold &amp;amp; Silver Pawn Shop v Las Vegas je rodinný byznys založený Richardem ?The Old Man? Harrisonem v roce 1988. Spoluzakladatelem (a nynějším bossem) je jeho syn Rick Harrison. Dále účinkují Rickův syn (a pravděpodobně budoucí boss) Corey ?Big Boss? Harrison a Coreyho kamarád Austin ?Chumlee? Russell. Seriál zobrazuje vyjednávání s prodejci i popis a historii nejrůznějších předmětů, od kapesních hodinek až po auta a motorky, které se lidé snaží prodat nebo dát do zástavy. Diváka překvapí velké množství netypických věcí ze všech možných kategorií. Na pozadí do seriálu zasahují shody, neshody a konflikty mezi Richardem, Rickem, Coreym a Austinem...
-Sedmnáctá řada americké reality show (2019) 25 min.</desc>
-  </programme><programme channel="1009" start="20260316200500 +0100" stop="20260316203000 +0100">
+  </channel><programme channel="1009" start="20260316200500 +0100" stop="20260316203000 +0100">
     <title>Mistři zastavárny XVII (19)</title>
     <desc>Starožitnictví Gold &amp;amp; Silver Pawn Shop v Las Vegas je rodinný byznys založený Richardem &amp;quot;The Old Man&amp;quot; Harrisonem v roce 1988. Spoluzakladatelem (a nynějším bossem) je jeho syn Rick Harrison. Dále učinkují Rickův syn (a pravděpodobně budoucí boss) Corey &amp;quot;Big Boss&amp;quot; Harrison a Coreyho kamarád Austin &amp;quot;Chumlee&amp;quot; Russell. Seriál zobrazuje vyjednávání s prodejci, popis a historii nejrůznějších předmětů od kapesních hodinek přes auta a motorky, které se lidé snaží prodat nebo dát do zástavy. Diváka překvapí velké množství netypických věcí ze všech možných kategorií. Na pozadí do seriálu zasahují shody, neshody a konflikty mezi Richardem, Rickem, Coreym a Austinem...
 Sedmnáctá řada americké reality show (2019) 25 min.</desc>
@@ -2168,6 +2167,10 @@ Sedmá řada oblíbené americké reality show (2016).</desc>
   </programme><programme channel="1009" start="20260318193500 +0100" stop="20260318200500 +0100">
     <title>Mistři zastavárny XVIII (52)</title>
     <desc>Dědeček Richard, jeho syn Rick a Rickův syn, Corey společně vlastní zastavárnu Gold and Silver Pawn Shop v Las Vegas. Zjistíme, jak to v takové zastavárně chodí. Naučíme se díky nim spoustu fíglů, jak tento byznys funguje, jak se obchoduje s použitými věcmi a výrobky, jak se vyjednává s klienty, ověřuje pravost zboží u odborníků apod. A samozřejmě budeme i svědky testů, zda je nakoupené zboží funkční...</desc>
+  </programme><programme channel="1009" start="20260318200500 +0100" stop="20260318203000 +0100">
+    <title>Mistři zastavárny XVIII (1)</title>
+    <desc>Tentokrát uvidíme zákazníky, kteří se snaží prodat například loutka Muppet Puppet z roku 1958, starodávné jízdní kolo Schwinn Fiesta z roku 1965, vlastnoruční autogram Johna Belushiho, starodávnou minci z roku 1894, za kterou zákazník požaduje 400 tisíc dolarů, jenže to je samozřejmě úplně mimo realitu, a proto k obchodu nedojde...
+Osmnáctá řada americké reality show (2020) 25 min.</desc>
   </programme><channel id="1011">
     <display-name>Nova Fun</display-name>
   </channel><programme channel="1011" start="20260316200000 +0100" stop="20260316202500 +0100">
@@ -3021,10 +3024,7 @@ Matt se svého působení na Justina vzdá, Justin ale musí nabýt sebevědomí
     <desc>Melinda Gordonová má zvláštní schopnost - komunikuje s duchy lidí, kteří zemřeli, ale protože mají na tomto světě dosud nevyřízené účty, nemohou pokojně odejít &amp;quot;na stranu světla&amp;quot;. A Melinda je jedná, kdo jim může pomoci. Druhá řada amerického seriálu (2008). Hrají J. L. Hewit, A. Tyler, D. Conrad, J. Mohr, C. Manheim, T. P. Jones a další.</desc>
   </programme><channel id="1015">
     <display-name>Prima MAX</display-name>
-  </channel><programme channel="1015" start="20260316162000 +0100" stop="20260316200500 +0100">
-    <title>Pearl Harbor</title>
-    <desc>Danny a Rafe jsou od dětských let přátelé a oba jsou zapálení do letadel a létání. Nerozešli se ani v dospělosti, kdy se oba stali piloty americké armády. V Evropě již zuří válka, ale američtí vojáci zatím tráví mírové dny na svých základnách. Přesto se starší Rafe přihlásí jako dobrovolník do britských RAF a odchází bojovat do Evropy. Krátce před odchodem se seznámí se zdravotní sestrou Evelyn, která se s kamarádkami přišla pobavit s vojáky z jeho jednotky. Rafe a Evelyn spolu stráví romantický večer, v jehož závěru jí Rafe přizná, že odchází do války... Danny s jednotkou a skupina zdravotních sester jsou pak převeleni na havajskou základnu Pearl Harbor, kde Evelyn oddaně čeká na každý Rafeův dopis. Jednoho dne je to právě jeho nejlepší přítel Danny, který přináší Evelyn smutnou zprávu. Rafe byl sestřelen nad mořem a zahynul. Ačkoliv se tomu brání, mezi oběma lidmi, které bolí ztráta přítele, začne vznikat milostné pouto. Zanedlouho spolu Danny a Evelyn stráví noc. Jednoho dne se však přede dveřmi Evelyniny ošetřovny objeví Rafe, živý a zdravý. Zraněného ho totiž vylovili z moře a zachránili francouzští rybáři. Rafe okamžitě pozná, že mezi Dannym a Evelyn vznikl cit. Jeho reakce je tvrdá a odmítavá, večírek na uvítanou skončí rvačkou. Do milostného trojúhelníku však nečekaně vstoupí historické události. 7. prosince 1941 napadlo Japonsko nečekaně základnu Pearl Harbor.. Režie: Michael Bay. Hrají: Ben Affleck (Rafe McCawley), Josh Hartnett (Danny Walker), Kate Beckinsaleová (Evelyn Johnson), Cuba Gooding Jr. (Doris 'Dorie' Miller), Alec Baldwin (Doolittle) (2001)</desc>
-  </programme><programme channel="1015" start="20260316200500 +0100" stop="20260316222000 +0100">
+  </channel><programme channel="1015" start="20260316200500 +0100" stop="20260316222000 +0100">
     <title>Želvy Ninja 2</title>
     <desc>Želví nepřítel číslo jedna, přezdívaný Trhač, právě utekl z vězení, kde měl dost času na to, aby vymyslel plán, jak se zelenými mutanty skoncovat. Kvůli jeho realizaci se spojí s šíleným vědcem, který vyvinul speciální mutagen, schopný přeměnit člověka ve zvíře. Režie: Dave Green. Hrají: Megan Foxová (April O'Neil), Will Arnett (Vernon Fenwick), Laura Linneyová (Šéf Vincent), Stephen Amell (Casey Jones), Noel Fisher (Michelangelo) (2016)</desc>
   </programme><programme channel="1015" start="20260316222000 +0100" stop="20260317000500 +0100">
@@ -3978,10 +3978,7 @@ Gloria), Nancy Cartwright (Bart Simpson), Yeardley Smith (Lisa Simpson), Harry S
     <desc>Kitzbühelští vyšetřovatelé Karin Koflerová a Klaus Lechner jsou přivoláni k novému případu - ve své horské chatě byl upálen Edwin Beretsky, který žil jako poustevník a jemuž lidé kvůli jeho dlouhým vlasům přezdívali Samson. Edwin byl zbožný muž a samotář, po tragické smrti své ženy Emilie se před osmnácti lety vzdal svých pozemků ve prospěch příbuzných, majetek daroval místní farnosti a odstěhoval se do osamocené chaty v horách. Auto, ve kterém Emilia zemřela, řídil podle nevlastních sourozenců Edwin a poté se stáhl do ústraní, protože ho tížil pocit viny. Úsek lesa, na kterém se nachází Edwinova chata, patří jeho bratrovi Wielandovi a nevlastním sourozencům Elle a Knutovi, Edwin však měl doživotní povolení zde bydlet. Ella, Knut a Wieland začali minulý měsíc jednat o prodeji lesa, Edwin byl ale proti, a tak z plánovaného obchodu sešlo. Wieland je právník, žije v Berlíně a bratra neviděl víc než dvacet let. Do Kitzbühelu přijel před pár dny a chtěl Edwina přesvědčit, aby svolil k prodeji lesa. Vyjde najevo, že Wieland nutně potřebuje peníze, protože jeho advokátní kancelář je na pokraji krachu. Následující den utrpí Ella těžký anafylaktický šok - někdo přimíchal do jejího jídla alergen, a to ořechy. V době její otravy byli v domě pouze Knut, Wieland a jejich služebná. Wieland se chová více než podezřele, na dobu Edwinovy vraždy má však alibi a neměl sebemenší důvod Elle ublížit. Podle svědků parkovalo krátce před Edwinovou smrtí před jeho chatou Ellino auto a vzápětí je v jejím voze nalezen Edwinův medailon s Emiliionou fotografií. Ella však nebyla v době vraždy v Kitzbühelu, byla na dovolené. Její auto si tedy musel někdo vypůjčit. Režie: Olaf Kreinsen. Hrají: Kristina Sprengerová (Karin Koflerová), Andreas Kiendl (Klaus Lechner), Andrea L'Arrongeová (Gräfin Schönberg), Heinz Marecek (Hannes Kofler), Christine Kleinová (Dr. Haller) (2010)</desc>
   </programme><channel id="1018">
     <display-name>Prima Love</display-name>
-  </channel><programme channel="1018" start="20260316190000 +0100" stop="20260316200500 +0100">
-    <title>Doktor z hor: Nové příběhy IV (6)</title>
-    <desc>Ellmauská pěvecká slavnost je už tradicí a Elisabeth Gruberová přihlásila svou rodinu k vystupování. Hans však nemyslí na nic jiného než na Klaru, která se mu z Říma neozývá. Elisabeth donutí všechny přijít na generální zkoušku, ale na pódium se nedostanou, protože mladá zpěvačka Stefanie Tannenbergová zkolabuje na přímo jevišti. Martin ji převeze do své ordinace, kde zjistí, že Stefanie vidí svého přítele Michaela, který před šesti týdny zemřel. Vyšetření pacientčiny hlavy na klinice v Hallu odhalí, že má Stefanie na mozku nádor. Laboratorním vyšetřením krve se však prokáže, že se nejedná o nádor, ale o absces - pokud se ovšem Stefanie nezačne léčit, zemře. Dívka ale nechce přijít o přítomnost Michaela, kterého může vidět jen díky svému onemocnění, a proto léčbu odmítá... Martin jde na večeři k Susanně, jelikož malý Jonas si společnou večeři přál... Když už konečně Hansovi zazvoní telefon a na displeji se objeví Klařino jméno, přichází vzápětí ledová sprcha. Nevolá totiž Klara, ale její bývalý manžel. Režie: Dirk Pientka. Hrají: Hans Sigl (Dr. Martin Gruber), Heiko Ruprecht (Hans Gruber), Monika Baumgartnerová (Elisabeth Gruber), Ronja Forcherová (Lilli Gruber), Natalie O'Haraová (Susanne Dreiseitl) (2011)</desc>
-  </programme><programme channel="1018" start="20260316200500 +0100" stop="20260316215500 +0100">
+  </channel><programme channel="1018" start="20260316200500 +0100" stop="20260316215500 +0100">
     <title>Rosamunde Pilcher: Magický autobus (154)</title>
     <desc>Olivia začíná podnikat v cestovním ruchu a Nicolas začíná s provozem hotelu. Čirou náhodou se jejich cesty setkají a oni dva se neubrání citům a rozhodnou se zkusit pokračovat v cestě životem spolu. Režie: Marco Serafini. Hrají: Isabella Krieger (Olivia Walsh), Max Woelky (Nicolas Arlington), Walter Kreye (Arthur Talbot), Jakob Philipp Graf (George Billington), Harald Schmidt (William Harris) (2019)</desc>
   </programme><programme channel="1018" start="20260316215500 +0100" stop="20260316230500 +0100">
@@ -5120,10 +5117,7 @@ Gloria), Nancy Cartwright (Bart Simpson), Yeardley Smith (Lisa Simpson), Harry S
     <desc>V roce 1930 se Jesse Owens jako první ze své rodiny dostal na vysokou školu Ohio State University. Tam si ho brzy všiml atletický trenér Larry Snyder. O Jessii je krátce nato velký zájem, považují ho za mladý afro-americký talent s obrovským potenciálem. Jesse má ambice dostat se na olympiádu, ovšem bojuje s největší otázkou svého života, rasismem. Vyvstává otázka, zda by Spojené státy vůbec mohly účinkovat na Olympijských hrách v nacistickém Německu v roce 1936. Když americký velvyslanec Avery Brundage najde kompromis, osobně přesvědčí Třetí říši, aby odvrátila bojkot ze strany Owense. Jessie mezitím řeší vlastní morální boj spočívající v tom, zda jít nebo nejít na olympiádu. Nakonec se rozhodne do Berlína odcestovat a právě tím se mu otevřou brány stát se největším americkým olympionikem všech dob. Režie: Stephen Hopkins. Hrají: Stephan James (Jesse Owens), Jason Sudeikis (Larry Snyder), Jeremy Irons (Avery Brundage), Carice van Houtenová (Leni Riefenstahl), William Hurt (Jeremiah Mahoney) (2016)</desc>
   </programme><channel id="1025">
     <display-name>TV Barrandov</display-name>
-  </channel><programme channel="1025" start="20260316195500 +0100" stop="20260316200500 +0100">
-    <title>VIP svět</title>
-    <desc>VIP svět vás zahrne novinkami ze světa českého showbyznysu (2026)</desc>
-  </programme><programme channel="1025" start="20260316200500 +0100" stop="20260316210000 +0100">
+  </channel><programme channel="1025" start="20260316200500 +0100" stop="20260316210000 +0100">
     <title>Policie Delta</title>
     <desc>V mimořádné epizodě vyrážejí všechny jednotky Policie Delta poprvé společně k dosud nejnebezpečnějšímu případu. Jejich úkolem je osvobodit Barrandov. Napínavá akce, týmová souhra i dramatické momenty. Naše hrdiny čeká nepříjemné překvapení, které prověří schopnosti celého týmu (2025)</desc>
   </programme><programme channel="1025" start="20260316210000 +0100" stop="20260316220500 +0100">
@@ -5268,6 +5262,9 @@ Gloria), Nancy Cartwright (Bart Simpson), Yeardley Smith (Lisa Simpson), Harry S
   </programme><programme channel="1025" start="20260318195500 +0100" stop="20260318200500 +0100">
     <title>VIP svět</title>
     <desc>VIP svět vás zahrne novinkami ze světa českého showbyznysu (2026)</desc>
+  </programme><programme channel="1025" start="20260318200500 +0100" stop="20260318210000 +0100">
+    <title>Policie Delta</title>
+    <desc>V mimořádné epizodě vyrážejí všechny jednotky Policie Delta poprvé společně k dosud nejnebezpečnějšímu případu. Jejich úkolem je osvobodit Barrandov. Napínavá akce, týmová souhra i dramatické momenty. Naše hrdiny čeká nepříjemné překvapení, které prověří schopnosti celého týmu (2025)</desc>
   </programme><channel id="1081">
     <display-name>JOJ Cinema</display-name>
   </channel><programme channel="1081" start="20260316183500 +0100" stop="20260316201500 +0100">
@@ -6000,10 +5997,7 @@ Gloria), Nancy Cartwright (Bart Simpson), Yeardley Smith (Lisa Simpson), Harry S
     <desc>HDTV Zvukový popis Skryté titulky</desc>
   </programme><channel id="1027">
     <display-name>Barrandov Krimi</display-name>
-  </channel><programme channel="1027" start="20260316190000 +0100" stop="20260316200500 +0100">
-    <title>Česká tajenka</title>
-    <desc>Nová zábavná soutěž plná tajenek pro velké i malé. Pořadem Vás provede Aleš Cibulka. (2013)</desc>
-  </programme><programme channel="1027" start="20260316200500 +0100" stop="20260316210500 +0100">
+  </channel><programme channel="1027" start="20260316200500 +0100" stop="20260316210500 +0100">
     <title>Josef Klíma: Jak jsem přežil devadesátky</title>
     <desc>Osobní zpověď legendárního investigativního novináře o divokých devadesátkách, plných kriminálních kauz a šokujících odhalení Věznice 1 Josef Klíma ve svém novém pořadu JAK JSEM PŘEŽIL DEVADESÁTKY vypráví o tom, jak dobrodružné a často i nebezpečné tehdy bylo dělat novináře. O tajných schůzkách s mafiány, o rozhovorech s lidmi, jako byli Ivan Jonák, orličtí vrazi, Radovan Krejčíř a další. I o tom, jak se měnilo české podsvětí. Osobní zpověď reportéra, který se stal také symbolem této divoké doby. Ovšem na opačné straně než zločinci. (2025)</desc>
   </programme><programme channel="1027" start="20260316210500 +0100" stop="20260316220000 +0100">
@@ -6109,6 +6103,9 @@ Gloria), Nancy Cartwright (Bart Simpson), Yeardley Smith (Lisa Simpson), Harry S
   </programme><programme channel="1027" start="20260318190000 +0100" stop="20260318200500 +0100">
     <title>Česká tajenka</title>
     <desc>Nová zábavná soutěž plná tajenek pro velké i malé. Pořadem Vás provede Aleš Cibulka. (2013)</desc>
+  </programme><programme channel="1027" start="20260318200500 +0100" stop="20260318204000 +0100">
+    <title>Badatelé</title>
+    <desc>Reportér Jaroslav Mareš je na stopách největších záhad, nevysvětlených jevů a zapomenutých příběhů</desc>
   </programme><channel id="1026">
     <display-name>Kino Barrandov</display-name>
   </channel><programme channel="1026" start="20260316190000 +0100" stop="20260316201500 +0100">
@@ -6333,6 +6330,9 @@ Gloria), Nancy Cartwright (Bart Simpson), Yeardley Smith (Lisa Simpson), Harry S
   </programme><programme channel="1042" start="20260318190000 +0100" stop="20260318200500 +0100">
     <title>Antikvář I (5)</title>
     <desc>Hotel Walsingham zažil během druhé světové války všechno, ale vraždu ne. Kapitán Victor Orr zemře po požití otráveného koktejlu v hotelovém baru a potenciálních podezřelých je nekonečně mnoho. Režie: Carolina Giammetta. Hrají: Mark Gatiss (Gabriel Book), Polly Walkerová (Trottie Book), Connor Finch (Jack), Elliot Levey (Inspector Bliss), Blake Harrison (Sgt. Morris) (2025)</desc>
+  </programme><programme channel="1042" start="20260318200500 +0100" stop="20260318210000 +0100">
+    <title>Případy detektiva Murdocha XVIII (1)</title>
+    <desc>William Murdoch je člen torontské policejní stanice, muž obdařený zvláštním druhem přímo vizionářské intuice, a především člověk, jenž na hony předběhl svou dobu. Neboť Murdoch si na rozdíl od mnoha svých policejních kolegů i nadřízených moc dobře uvědomuje význam a váhu všech vědeckých objevů, jimiž konec devatenáctého století doslova překypuje. Objevů, jejichž použití v kriminalistice najednou otevírá netušené možnosti detektivní práce, vyšetřovacích metod, jejichž použitím lze nad jakoukoliv pochybnost usvědčit pachatele nejrůznějších - i těch nejzávažnějších trestných činů. S obrovskou chutí se tak vrhá do všech dobrodružství, které před něj kriminalistika a jednotlivé případy staví. Ani Murdoch by ve světě, nepříliš přejícím novotám a pokroku, samozřejmě nemohl pracovat zcela sám. Naštěstí našel víc než schopnou pomocnici v doktorce Ogdenové, patoložce, ochotné vyzkoušet každý, byť na první pohled sebebláznivější Murdochův nápad. A nezapomínejme ani na konstábla Crabtreeho, který se ve svém moderně uvažujícím šéfovi vidí, jednou by chtěl být jako on a zatím mu alespoň spolehlivě sekunduje. Režie: Craig David Wallace. Hrají: Yannick Bisson (Detective William Murdoch), Thomas Craig (Chief Constable Thomas Brackenreid), Jonny Harris (Constable George Crabtree), Daniel Maslany (Detective Llewellyn Watts), Shanice Banton (Violet Hart) (2024)</desc>
   </programme><channel id="1034">
     <display-name>Film+</display-name>
   </channel><programme channel="1034" start="20260316182500 +0100" stop="20260316203000 +0100">
@@ -6518,6 +6518,9 @@ Gloria), Nancy Cartwright (Bart Simpson), Yeardley Smith (Lisa Simpson), Harry S
   </programme><programme channel="1036" start="20260318183000 +0100" stop="20260318200500 +0100">
     <title>Pěkně tučná sebeláska</title>
     <desc>Provokativní dokument sleduje aktivistky &amp;quot;tlustého&amp;quot; hnutí ve skandinávských zemích. Film o ženách, které se o sobě nestydí říct, že jsou tlusté, přináší revoluci do konvenčního pohledu na krásu, zpochybňuje kosmetické standardy a podporuje pozitivní přístup k lidskému tělu, ať je jakékoliv? Režie: Louise Detlefsen. Hrají: Helene Thyrsted (Sebe), Marte Nymann (Sebe), Pauline Lindborg (Sebe), Wilde Siem (Sebe), Naomi Wolf (Sebe) (2019)</desc>
+  </programme><programme channel="1036" start="20260318200500 +0100" stop="20260318220000 +0100">
+    <title>Delete history</title>
+    <desc>Tři sousedé z předměstí se vyrovnávají s důsledky moderního světa sociálních sítí. Marie, může kvůli sexuální nahrávce ztratit respekt svého syna Bertrandová dcera, oběť online šikany a Christine, jejíž Uber hodnocení odmítá narůst. S pomocí skutečného hackera se odhodlají bojovat s mocnými větrnými mlýny současného života - s technologickými giganty. Možná jsou už od počátku poraženi, ale člověk nikdy neví ... Režie: Gustave Kervern. Hrají: Blanche Gardin (Marie Dehoux), Denis Podalydès (Bertrand Pitorin), Corinne Masiero (Christine), Bouli Lanners (Dieu), Vincent Lacoste (Le sextapeur) (2020)</desc>
   </programme><channel id="1043">
     <display-name>AXN</display-name>
   </channel><programme channel="1043" start="20260316200000 +0100" stop="20260316210000 +0100">
@@ -7517,10 +7520,7 @@ Gloria), Nancy Cartwright (Bart Simpson), Yeardley Smith (Lisa Simpson), Harry S
     <desc>Športová relácia, ktorá nám prináša aktuálne výsledky zo sveta športu. (2026)</desc>
   </programme><channel id="1073">
     <display-name>Dvojka SK</display-name>
-  </channel><programme channel="1073" start="20260316200000 +0100" stop="20260316200700 +0100">
-    <title>Správy v slovenskom posunkovom jazyku (74)</title>
-    <desc>Informácie pre každého - správy v slovenskom posunkovom jazyku pre nepočujúcich, aj zo života nepočujúcich. (2026)</desc>
-  </programme><programme channel="1073" start="20260316200700 +0100" stop="20260316201000 +0100">
+  </channel><programme channel="1073" start="20260316200700 +0100" stop="20260316201000 +0100">
     <title>Informácie pre tipujúcich - KENO 10, KENO Joker, Extra výplata, Všetko alebo nič (E - pondelok) (11)</title>
     <desc>(2026)</desc>
   </programme><programme channel="1073" start="20260316201000 +0100" stop="20260316203500 +0100">
@@ -9068,6 +9068,9 @@ Relácia, ktorá sa nakrúcala v bratislavskom, dnes už neexistujúcom Divadle 
   </programme><programme channel="1031" start="20260318193500 +0100" stop="20260318200500 +0100">
     <title>Návrat na výsluní II (4)</title>
     <desc>Valerie Cherishová byla kdysi průkopnicí reality show. Nyní existuje mnohem víc televizí než kdy dřív a někdejší hvězda sitkomů se chce dostat zpět. Fanoušci seriálu Návrat na výsluní tak mají opět šanci sledovat Valerii, jak dělá to, co umí nejlépe (nebo přinejmenším nejvtipněji), neboť Lisa Kudrowová se vrací na obrazovky HBO ve zbrusu nových epizodách tohoto uznávaného seriálu. Hvězda seriálu Přátelé, jež za svůj výkon získala cenu Emmy, Lisa Kudrowová se opět uvede v hlavní roli odhodlané Valerie Cherishové, bývalé televizní hvězdičky, která dovolila slídivým kamerám jedné reality show, aby ji sledovaly na každém kroku, zvláště při natáčení nového sitkomu. A výsledek? Katastrofa! Teď, po deseti letech, Valerie najala studentský filmový štáb, aby s ní natočil záběry, které - jak doufá - upoutají pozornost Brava a dostanou ji zpátky do hry. Když však Valerie zjistí, že její někdejší úhlavní nepřítel Paulie G. (nedávno propuštěný z léčebny) natáčí pro HBO novou show s názvem Vidět rudě, postavenou na Paulieho zkušenostech z doby, kdy s Valerií pracoval, rozlícená Valerie vtrhne do kanceláří HBO s křikem o pomluvách... a skončí získáním role inspirované jí samotnou. Režie: John Riggi. Hrají: Lisa Kudrowová (Valerie Cherish), Lance Barber (Paulie G.), Robert Michael Morris (Mickey Deane), Laura Silvermanová (Jane Benson), Damian Young (Mark Berman) (2014)</desc>
+  </programme><programme channel="1031" start="20260318200500 +0100" stop="20260318202500 +0100">
+    <title>Twisted Metal II (5)</title>
+    <desc>Akční komediální seriál podle původní předlohy Rhetta Reese a Paula Wenicka a scénáře Michaela Jonathana Smithe vypráví o outsiderovi, který dostane šanci na lepší život. K tomu však musí úspěšně doručit záhadný balíček napříč postapokalyptickou pustinou. Režie: Bill Benz. Hrají: Anthony Mackie (John Doe), Stephanie Beatriz (Quiet), Joe Seanoa (Sweet Tooth), Anthony Carrigan (Calypso), Richard De Klerk (Mr. Grimm) (2025)</desc>
   </programme><channel id="1032">
     <display-name>Cinemax</display-name>
   </channel><programme channel="1032" start="20260316200000 +0100" stop="20260316215000 +0100">
@@ -14812,10 +14815,7 @@ Relácia, ktorá sa nakrúcala v bratislavskom, dnes už neexistujúcom Divadle 
     <desc>Aktuálna predpoveď počasia na najbližšie dni. (2026)</desc>
   </programme><channel id="1083">
     <display-name>Doma</display-name>
-  </channel><programme channel="1083" start="20260316190000 +0100" stop="20260316200500 +0100">
-    <title>Leyla (101)</title>
-    <desc>Neco sa teší, že môže Civanovi pomôcť. Tekin ho vyhľadá s ponukou a vyláka ho k sebe - kde naňho čaká Nur. Leyla pripraví večerný program, aby rozveselili Ipek. Selman, Hatice a Tufan oslavujú, keď Ferda nečakane všetkých šokuje veľkým oznámením. Arzu pozve Nur k sebe domov? Réžia: Hilal Saral. Účinkujú: Cemre Baysel (), Alperen Duymaz (), Gonca Vuslateri (), Yigit Kirazci (), Halil Ibrahim Ceyhan () (2025)</desc>
-  </programme><programme channel="1083" start="20260316200500 +0100" stop="20260316205500 +0100">
+  </channel><programme channel="1083" start="20260316200500 +0100" stop="20260316205500 +0100">
     <title>Leyla (102)</title>
     <desc>Güzide oznámi Leyle správu o Necovej smrti. Rodina dúfa, že ak splnia Nurine podmienky, bude ochotná rozviesť sa. Ferda však odmieta rozvod s Malim. Civan spadne, udrie si hlavu a stratí pamäť. Lekár rodinu vyzýva k trpezlivosti? Réžia: Hilal Saral. Účinkujú: Cemre Baysel (), Alperen Duymaz (), Gonca Vuslateri (), Yigit Kirazci (), Halil Ibrahim Ceyhan () (2025)</desc>
   </programme><programme channel="1083" start="20260316205500 +0100" stop="20260316211000 +0100">
