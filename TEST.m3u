@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Arena Esport HD (RS)" tvg-name="RS| ARENA ESPORT" tvg-logo="http://picons.cmshulk.com/picons/arenaesport.png" group-title="SRB| SERBIA",RS| ARENA ESPORT
+http://line.trxdnscloud.ru:80/17615c7189/664d564060ed/1861849
+#EXTINF:-1 tvg-id="Eurosport 1 HD (RS)" tvg-name="RS| EUROSPORT 1" tvg-logo="http://picons.cmshulk.com/picons/eurosport1.png" group-title="SRB| SERBIA",RS| EUROSPORT 1
+http://line.trxdnscloud.ru:80/17615c7189/664d564060ed/1861845
+#EXTINF:-1 tvg-id="Eurosport 2 HD (RS)" tvg-name="RS| EUROSPORT 2" tvg-logo="http://picons.cmshulk.com/picons/eurosport1.png" group-title="SRB| SERBIA",RS| EUROSPORT 2
+http://line.trxdnscloud.ru:80/17615c7189/664d564060ed/1861844

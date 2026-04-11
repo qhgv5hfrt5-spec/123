@@ -1,0 +1,874 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Eurosport 1 HD (RS)">
+    <display-name lang="sl">Eurosport 1 HD (RS)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/d9138754/2022/01/31/003ba419-7162-4e5a-ac0d-8e9efdf256a0_xl.png" />
+    <url>http://www.epg.sbb.rs</url>
+  </channel>
+  <channel id="Eurosport 2 HD (RS)">
+    <display-name lang="sl">Eurosport 2 HD (RS)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/d9138754/2022/01/31/f2c3f90d-7df9-404a-9107-1a1070dc4c93_xl.png" />
+    <url>http://www.epg.sbb.rs</url>
+  </channel>
+  <channel id="Arena Esport HD (RS)">
+    <display-name lang="sl">Arena Esport HD (RS)</display-name>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/04/04/3af47365-f6e2-4871-88b7-ec09a8cf3e1e_xl.png" />
+    <url>http://www.epg.sbb.rs</url>
+  </channel>
+  <programme start="20260411000300 +0000" stop="20260411015900 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 5</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411015900 +0000" stop="20260411040000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Snuker - Vels Open: Finale, Beri Hokins - Džek Lisovski</title>
+    <desc lang="sl">Vels Open je profesionalni rangirni snuker turnir. Održava se u Kardifu.</desc>
+    <category lang="sl">Bilijar</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/02/17/d3c045aa_bae3_4d94_936d_f792b6ca13c4_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411040000 +0000" stop="20260411053000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 5</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411053000 +0000" stop="20260411063000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam: Serija PRO - Scheldeprijs (M)</title>
+    <desc lang="sl">Scheldeprijs je drumska biciklistička trka koja počinje u Holandiji a završava se u Belgiji.</desc>
+    <category lang="sl">Biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/04/04/d9e63e68-92ea-4f14-a10b-3b389666dc23_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411063000 +0000" stop="20260411063400 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Magazin: Cycling Show</title>
+    <desc lang="sl">Uživajte u zabavnim sportskim minutima naše emisije koja donosi novosti iz sveta biciklizma.</desc>
+    <category lang="sl">Biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/06/24/c5785d28-4d68-4172-aa47-624f8e62a018_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411063400 +0000" stop="20260411070500 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Magazin: Cycling Show</title>
+    <desc lang="sl">Uživajte u zabavnim sportskim minutima naše emisije koja donosi novosti iz sveta biciklizma.</desc>
+    <category lang="sl">Biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/06/24/c5785d28-4d68-4172-aa47-624f8e62a018_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411070500 +0000" stop="20260411080000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 5</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411080000 +0000" stop="20260411100000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Snuker - Vels Open: Finale, Beri Hokins - Džek Lisovski</title>
+    <desc lang="sl">Vels Open je profesionalni rangirni snuker turnir. Održava se u Kardifu.</desc>
+    <category lang="sl">Bilijar</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/02/17/d3c045aa_bae3_4d94_936d_f792b6ca13c4_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411100000 +0000" stop="20260411121400 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Paris Roubaix - Duels in Hell</title>
+    <desc lang="sl">Paris–Roubaix je čuvena biciklistička trka poznata po teškim kaldrmama i ekstremnim uslovima, zbog čega je često zovu "Severni pakao".</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/27/fc72a709-2f5f-4279-a654-500a366043a5_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411121400 +0000" stop="20260411130000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 5</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411130000 +0000" stop="20260411154500 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 6</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411154500 +0000" stop="20260411180000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Paris Roubaix - Duels in Hell</title>
+    <desc lang="sl">Paris–Roubaix je čuvena biciklistička trka poznata po teškim kaldrmama i ekstremnim uslovima, zbog čega je često zovu "Severni pakao".</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/27/fc72a709-2f5f-4279-a654-500a366043a5_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411180000 +0000" stop="20260411200000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Snuker - Vels Open: Finale, Beri Hokins - Džek Lisovski</title>
+    <desc lang="sl">Vels Open je profesionalni rangirni snuker turnir. Održava se u Kardifu.</desc>
+    <category lang="sl">Bilijar</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/02/17/d3c045aa_bae3_4d94_936d_f792b6ca13c4_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411200000 +0000" stop="20260411220000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 6</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411220000 +0000" stop="20260411233000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Snuker: Tour Championship (Hull): Finale: Džad Tramp - Zhao Xintong</title>
+    <desc lang="sl">Coral Tour Championship je profesionalni rangirni snuker turnir koji se prvi put odigrao tokom sezone 2018/19.</desc>
+    <date>2026</date>
+    <category lang="sl">Snuker</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/24/ede1bd63_5b75_4079_8c1b_a4bddbf0d77e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411233000 +0000" stop="20260412014500 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Paris Roubaix - Duels in Hell</title>
+    <desc lang="sl">Paris–Roubaix je čuvena biciklistička trka poznata po teškim kaldrmama i ekstremnim uslovima, zbog čega je često zovu "Severni pakao".</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/27/fc72a709-2f5f-4279-a654-500a366043a5_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412014500 +0000" stop="20260412020000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Magazin: Cycling Show</title>
+    <desc lang="sl">Uživajte u zabavnim sportskim minutima naše emisije koja donosi novosti iz sveta biciklizma.</desc>
+    <category lang="sl">Biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/06/24/c5785d28-4d68-4172-aa47-624f8e62a018_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412020000 +0000" stop="20260412040000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Snuker: Tour Championship (Hull): Finale: Džad Tramp - Zhao Xintong</title>
+    <desc lang="sl">Coral Tour Championship je profesionalni rangirni snuker turnir koji se prvi put odigrao tokom sezone 2018/19.</desc>
+    <date>2026</date>
+    <category lang="sl">Snuker</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/24/ede1bd63_5b75_4079_8c1b_a4bddbf0d77e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412040000 +0000" stop="20260412053500 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 6</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412053500 +0000" stop="20260412055000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Trejl trčanje</title>
+    <desc lang="sl">Pratite uzbudljivo takmičenje u trejl trčanju u kom takmičari osim dobre fizičke pripremljenosti moraju da budu spremni i na suočavanje sa izazovnim stazama po kojima se trči.</desc>
+    <category lang="sl">Trail trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2024/06/03/35927729-34fa-4088-b6e2-9306b59b66e5_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412055000 +0000" stop="20260412083000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Maraton: Pariz</title>
+    <desc lang="sl">Pariški maraton jedna je od najprestižnijih svetskih trka koja je započela s održavanjem još davne 1896. godine. Danas se na njemu okuplja više desetina hiljada takmičara iz celoga sveta.</desc>
+    <date>2026</date>
+    <category lang="sl">Maraton</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/04/05/e25049b4_1183_4041_8c41_a9ef47fb59c1_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412083000 +0000" stop="20260412150000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam - Pariz-Rube (M)</title>
+    <desc lang="sl">Jednodnevna klasična biciklistička trka koja se održava na severu Francuske ka granici sa Belgijom, sredinom aprila. Poznata je po teškom terenu i kaldrmi, a zahvaljujući svojoj dugoj tradiciji, jedna je od pet Monumentalnih klasičnih biciklističkih trka, takođe, deo je i Kaldrmisanih klasika.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/05/fb200524-cae6-4600-a814-517ae513a96e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412150000 +0000" stop="20260412164500 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam: Svetska turneja - Pariz-Rube (Ž)</title>
+    <desc lang="sl">Pariz Rube je jednodnevna biciklistička trka koja se održava sredinom aprila na severu Francuske prema granici sa Belgijom. Osnovana je 1896. godine, a od 1968. start je u Šampanji, oko 60 kilometara severoistočno od centra Pariza, a finiš je u Rubeu. Trka je poznata po teškom terenu i kaldrmi. Pratite trku u ženskoj konkurenciji i saznajte ko će poneti pehar prvaka.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/27/7d746064-57c2-499b-838b-473a9fe5c6ec_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412164500 +0000" stop="20260412171500 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Race Bikes</title>
+    <desc lang="sl">Dobrodošli u emisiju koja vas vodi u svet takmičarskog planinskog biciklizma, istražujući neke od najbržih mašina! Saznajte nešto više o biciklima i biciklistima koji pomeraju granice i zahvaljujući kojima je planinski biciklizam doživeo pravu revoluciju.</desc>
+    <category lang="sl">Planinski biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/05/904e298a-0096-4d6e-b6a8-c59db553e494_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412171500 +0000" stop="20260412190000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Maraton: Pariz</title>
+    <desc lang="sl">Pariški maraton jedna je od najprestižnijih svetskih trka koja je započela s održavanjem još davne 1896. godine. Danas se na njemu okuplja više desetina hiljada takmičara iz celoga sveta.</desc>
+    <category lang="sl">Maraton</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/10/15/a6f4d114-e194-44b1-960c-647dafd9425d_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412190000 +0000" stop="20260412210000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam - Pariz-Rube (M)</title>
+    <desc lang="sl">Jednodnevna klasična biciklistička trka koja se održava na severu Francuske ka granici sa Belgijom, sredinom aprila. Poznata je po teškom terenu i kaldrmi, a zahvaljujući svojoj dugoj tradiciji, jedna je od pet Monumentalnih klasičnih biciklističkih trka, takođe, deo je i Kaldrmisanih klasika.</desc>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/05/fb200524-cae6-4600-a814-517ae513a96e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412210000 +0000" stop="20260412220000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam: Svetska turneja - Pariz-Rube (Ž)</title>
+    <desc lang="sl">Pariz Rube je jednodnevna biciklistička trka koja se održava sredinom aprila na severu Francuske prema granici sa Belgijom. Osnovana je 1896. godine, a od 1968. start je u Šampanji, oko 60 kilometara severoistočno od centra Pariza, a finiš je u Rubeu. Trka je poznata po teškom terenu i kaldrmi. Pratite trku u ženskoj konkurenciji i saznajte ko će poneti pehar prvaka.</desc>
+    <category lang="sl">Biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/27/7d746064-57c2-499b-838b-473a9fe5c6ec_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412220000 +0000" stop="20260412233000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 6</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412233000 +0000" stop="20260413010000 +0000" channel="Eurosport 1 HD (RS)">
+    <title lang="sl">Biciklizam - Pariz-Rube (M)</title>
+    <desc lang="sl">Jednodnevna klasična biciklistička trka koja se održava na severu Francuske ka granici sa Belgijom, sredinom aprila. Poznata je po teškom terenu i kaldrmi, a zahvaljujući svojoj dugoj tradiciji, jedna je od pet Monumentalnih klasičnih biciklističkih trka, takođe, deo je i Kaldrmisanih klasika.</desc>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/05/fb200524-cae6-4600-a814-517ae513a96e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411020300 +0000" stop="20260411040000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 5</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411040000 +0000" stop="20260411053000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Tenis - Australian Open: Singl, Žene, Finale, Arina Sabalenka - Elena Ribakina</title>
+    <desc lang="sl">Australijan Open je jedan od četiri Gren Slam turnira te se igra svake godine u januaru. Osnovan je 1905. godine kao "Australasian Championship" te se sve do 1988. godine igrao na travnatoj podlozi. Selidbom turnira na tvrde terene legendarnog Melbourn Parka turnir dobija svoj sadašnji izgled. Teniseri se takmiče u kategorijama muškarci i žene pojedinačno, parovi i mešoviti parovi. Teniseri sa najviše osvojenih pojedinačnih titula su Novak Đoković u muškoj te Margaret Kourt u ženskoj konkurenciji.</desc>
+    <category lang="sl">Tenis</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/23/b302daf0_bab5_45aa_a65e_f147079788df_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411053000 +0000" stop="20260411063000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Brdski biciklizam - Svetski kup, Spust, Pregled sezone: Spust</title>
+    <desc lang="sl">Pogledajte najbolje momente sa Svetskog kupa u brdskom biciklizmu.</desc>
+    <category lang="sl">Planinski biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/506abc6f-1680-4235-8427-8e29b2f9edc0_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411063000 +0000" stop="20260411063300 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Snuker - Vels Open: Finale, Beri Hokins - Džek Lisovski</title>
+    <desc lang="sl">Vels Open je profesionalni rangirni snuker turnir. Održava se u Kardifu.</desc>
+    <category lang="sl">Bilijar</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/02/17/d3c045aa_bae3_4d94_936d_f792b6ca13c4_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411063300 +0000" stop="20260411080500 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Snuker - Vels Open: Finale, Beri Hokins - Džek Lisovski</title>
+    <desc lang="sl">Vels Open je profesionalni rangirni snuker turnir. Održava se u Kardifu.</desc>
+    <category lang="sl">Bilijar</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/02/17/d3c045aa_bae3_4d94_936d_f792b6ca13c4_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411080500 +0000" stop="20260411100000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 5</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411100000 +0000" stop="20260411103600 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros: SP - Švajcarska: MX2, Trka 1</title>
+    <desc lang="sl">Donosimo pravu poslasticu za sve one koji vole brzu vožnju - moto trku koja se u okviru FIM Svetskog prvenstva održava u Švajcarskoj. Nakon 6 decenija zabrane, Švajcarska je ponovo otvorila svoje moto staze.</desc>
+    <category lang="sl">Motociklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/13a0b749-e222-47cf-ae4c-f4604e0c3f2e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411103600 +0000" stop="20260411110700 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros: SP - Švajcarska: MXGP, Trka 1</title>
+    <desc lang="sl">Donosimo pravu poslasticu za sve one koji vole brzu vožnju - moto trku koja se u okviru FIM Svetskog prvenstva održava u Švajcarskoj. Nakon 6 decenija zabrane, Švajcarska je ponovo otvorila svoje moto staze.</desc>
+    <category lang="sl">Motociklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/13a0b749-e222-47cf-ae4c-f4604e0c3f2e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411110700 +0000" stop="20260411113600 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros: SP - Švajcarska: MX2, Trka 2</title>
+    <desc lang="sl">Donosimo pravu poslasticu za sve one koji vole brzu vožnju - moto trku koja se u okviru FIM Svetskog prvenstva održava u Švajcarskoj. Nakon 6 decenija zabrane, Švajcarska je ponovo otvorila svoje moto staze.</desc>
+    <category lang="sl">Motociklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/13a0b749-e222-47cf-ae4c-f4604e0c3f2e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411113600 +0000" stop="20260411120500 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros: SP - Švajcarska: MXGP, Trka 2</title>
+    <desc lang="sl">Donosimo pravu poslasticu za sve one koji vole brzu vožnju - moto trku koja se u okviru FIM Svetskog prvenstva održava u Švajcarskoj. Nakon 6 decenija zabrane, Švajcarska je ponovo otvorila svoje moto staze.</desc>
+    <category lang="sl">Motociklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/03/02/ffa7386e-85df-40f2-91da-78575e3e125b_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411120500 +0000" stop="20260411131100 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Formula E: Svetsko prvenstvo - Pregled: Madrid</title>
+    <desc lang="sl">Donosimo pregled najboljih trenutaka i zanimljivosti sa Svetskog prvenstva u Formuli E.</desc>
+    <category lang="sl">Formula E</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/05/f3101290_a105_49a4_ac46_84ea4cc79c11_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411131100 +0000" stop="20260411150500 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Snuker - Vels Open: Finale, Beri Hokins - Džek Lisovski</title>
+    <desc lang="sl">Vels Open je profesionalni rangirni snuker turnir. Održava se u Kardifu.</desc>
+    <category lang="sl">Bilijar</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/02/17/d3c045aa_bae3_4d94_936d_f792b6ca13c4_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411150500 +0000" stop="20260411153000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros - MXGP: VN Andaluzije: Trka 1</title>
+    <category lang="sl">Motokros</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/20/1d7a4e08_8c83_4048_8a16_9128f4e5d4cf_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411153000 +0000" stop="20260411160000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros - MXGP: VN Andaluzije: Trka 2</title>
+    <category lang="sl">Motokros</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/20/1d7a4e08_8c83_4048_8a16_9128f4e5d4cf_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411160000 +0000" stop="20260411163000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros: SP - Švajcarska: MXGP, Trka 1</title>
+    <desc lang="sl">Donosimo pravu poslasticu za sve one koji vole brzu vožnju - moto trku koja se u okviru FIM Svetskog prvenstva održava u Švajcarskoj. Nakon 6 decenija zabrane, Švajcarska je ponovo otvorila svoje moto staze.</desc>
+    <category lang="sl">Motociklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/13a0b749-e222-47cf-ae4c-f4604e0c3f2e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411163000 +0000" stop="20260411170000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros: SP - Švajcarska: MXGP, Trka 2</title>
+    <desc lang="sl">Donosimo pravu poslasticu za sve one koji vole brzu vožnju - moto trku koja se u okviru FIM Svetskog prvenstva održava u Švajcarskoj. Nakon 6 decenija zabrane, Švajcarska je ponovo otvorila svoje moto staze.</desc>
+    <category lang="sl">Motociklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/03/02/ffa7386e-85df-40f2-91da-78575e3e125b_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411170000 +0000" stop="20260411180000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Tenis - Australian Open: Singl, Žene, Finale, Arina Sabalenka - Elena Ribakina</title>
+    <desc lang="sl">Australijan Open je jedan od četiri Gren Slam turnira te se igra svake godine u januaru. Osnovan je 1905. godine kao "Australasian Championship" te se sve do 1988. godine igrao na travnatoj podlozi. Selidbom turnira na tvrde terene legendarnog Melbourn Parka turnir dobija svoj sadašnji izgled. Teniseri se takmiče u kategorijama muškarci i žene pojedinačno, parovi i mešoviti parovi. Teniseri sa najviše osvojenih pojedinačnih titula su Novak Đoković u muškoj te Margaret Kourt u ženskoj konkurenciji.</desc>
+    <category lang="sl">Tenis</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/23/b302daf0_bab5_45aa_a65e_f147079788df_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411180000 +0000" stop="20260411183000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Race Bikes</title>
+    <desc lang="sl">Dobrodošli u emisiju koja vas vodi u svet takmičarskog planinskog biciklizma, istražujući neke od najbržih mašina! Saznajte nešto više o biciklima i biciklistima koji pomeraju granice i zahvaljujući kojima je planinski biciklizam doživeo pravu revoluciju.</desc>
+    <category lang="sl">Planinski biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/05/904e298a-0096-4d6e-b6a8-c59db553e494_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411183000 +0000" stop="20260411200000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 6</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411200000 +0000" stop="20260411220000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Snuker - Vels Open: Finale, Beri Hokins - Džek Lisovski</title>
+    <desc lang="sl">Vels Open je profesionalni rangirni snuker turnir. Održava se u Kardifu.</desc>
+    <category lang="sl">Bilijar</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/02/17/d3c045aa_bae3_4d94_936d_f792b6ca13c4_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411220000 +0000" stop="20260411233000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 6</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411233000 +0000" stop="20260412020000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Snuker: Tour Championship (Hull): Finale: Džad Tramp - Zhao Xintong</title>
+    <desc lang="sl">Coral Tour Championship je profesionalni rangirni snuker turnir koji se prvi put odigrao tokom sezone 2018/19.</desc>
+    <date>2026</date>
+    <category lang="sl">Snuker</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/24/ede1bd63_5b75_4079_8c1b_a4bddbf0d77e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412020000 +0000" stop="20260412040000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Biciklizam - Tur Baskije: Etapa 6</title>
+    <desc lang="sl">Tur Baskije je biciklistička trka koja se održava svake godine u aprilu i deo je UCI Svetskog tura.</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/cd194b9f-8926-4e4c-9440-25fe74474d7e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412040000 +0000" stop="20260412054500 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Snuker: Tour Championship (Hull): Finale: Džad Tramp - Zhao Xintong</title>
+    <desc lang="sl">Coral Tour Championship je profesionalni rangirni snuker turnir koji se prvi put odigrao tokom sezone 2018/19.</desc>
+    <date>2026</date>
+    <category lang="sl">Snuker</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/24/ede1bd63_5b75_4079_8c1b_a4bddbf0d77e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412054500 +0000" stop="20260412080000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Paris Roubaix - Duels in Hell</title>
+    <desc lang="sl">Paris–Roubaix je čuvena biciklistička trka poznata po teškim kaldrmama i ekstremnim uslovima, zbog čega je često zovu "Severni pakao".</desc>
+    <date>2026</date>
+    <category lang="sl">Biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/27/fc72a709-2f5f-4279-a654-500a366043a5_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412080000 +0000" stop="20260412083000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros: SP - Švajcarska: MXGP, Trka 1</title>
+    <desc lang="sl">Donosimo pravu poslasticu za sve one koji vole brzu vožnju - moto trku koja se u okviru FIM Svetskog prvenstva održava u Švajcarskoj. Nakon 6 decenija zabrane, Švajcarska je ponovo otvorila svoje moto staze.</desc>
+    <category lang="sl">Motociklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/13a0b749-e222-47cf-ae4c-f4604e0c3f2e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412083000 +0000" stop="20260412090000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros: SP - Švajcarska: MXGP, Trka 2</title>
+    <desc lang="sl">Donosimo pravu poslasticu za sve one koji vole brzu vožnju - moto trku koja se u okviru FIM Svetskog prvenstva održava u Švajcarskoj. Nakon 6 decenija zabrane, Švajcarska je ponovo otvorila svoje moto staze.</desc>
+    <category lang="sl">Motociklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2022/03/02/ffa7386e-85df-40f2-91da-78575e3e125b_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412090000 +0000" stop="20260412110000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Snuker: Tour Championship (Hull): Finale, Džad Tramp - Zhao Xintong</title>
+    <desc lang="sl">Coral Tour Championship je profesionalni rangirni snuker turnir koji se prvi put odigrao tokom sezone 2018/19.</desc>
+    <category lang="sl">Snuker</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/24/ede1bd63_5b75_4079_8c1b_a4bddbf0d77e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412110000 +0000" stop="20260412120000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros - Sardinija: MX2, Trka 1</title>
+    <desc lang="sl">Za sve ljubitelje brze vožnje, slede epske motokros trke u okviru FIM Svetskog prvenstva, koje se održavaju na stazama u Riola Sardu na Sardiniji.</desc>
+    <date>2026</date>
+    <category lang="sl">Motokros</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/13a0b749-e222-47cf-ae4c-f4604e0c3f2e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412120000 +0000" stop="20260412130000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros - Sardinija: MXGP, Trka 1</title>
+    <desc lang="sl">Za sve ljubitelje brze vožnje, slede epske motokros trke u okviru FIM Svetskog prvenstva, koje se održavaju na stazama u Riola Sardu na Sardiniji.</desc>
+    <date>2026</date>
+    <category lang="sl">Motokros</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/13a0b749-e222-47cf-ae4c-f4604e0c3f2e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412130000 +0000" stop="20260412140000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Maraton: Pariz</title>
+    <desc lang="sl">Pariški maraton jedna je od najprestižnijih svetskih trka koja je započela s održavanjem još davne 1896. godine. Danas se na njemu okuplja više desetina hiljada takmičara iz celoga sveta.</desc>
+    <category lang="sl">Maraton</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/10/15/a6f4d114-e194-44b1-960c-647dafd9425d_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412140000 +0000" stop="20260412150000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros - Sardinija: MX2, Trka 2</title>
+    <desc lang="sl">Za sve ljubitelje brze vožnje, slede epske motokros trke u okviru FIM Svetskog prvenstva, koje se održavaju na stazama u Riola Sardu na Sardiniji.</desc>
+    <date>2026</date>
+    <category lang="sl">Motokros</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/13a0b749-e222-47cf-ae4c-f4604e0c3f2e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412150000 +0000" stop="20260412160000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Motokros - Sardinija: MXGP, Trka 2</title>
+    <desc lang="sl">Za sve ljubitelje brze vožnje, slede epske motokros trke u okviru FIM Svetskog prvenstva, koje se održavaju na stazama u Riola Sardu na Sardiniji.</desc>
+    <date>2026</date>
+    <category lang="sl">Motokros</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/22/13a0b749-e222-47cf-ae4c-f4604e0c3f2e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412160000 +0000" stop="20260412171500 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Maraton: Pariz</title>
+    <desc lang="sl">Pariški maraton jedna je od najprestižnijih svetskih trka koja je započela s održavanjem još davne 1896. godine. Danas se na njemu okuplja više desetina hiljada takmičara iz celoga sveta.</desc>
+    <category lang="sl">Maraton</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/10/15/a6f4d114-e194-44b1-960c-647dafd9425d_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412171500 +0000" stop="20260412181500 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Biciklizam - Pariz-Rube (M)</title>
+    <desc lang="sl">Jednodnevna klasična biciklistička trka koja se održava na severu Francuske ka granici sa Belgijom, sredinom aprila. Poznata je po teškom terenu i kaldrmi, a zahvaljujući svojoj dugoj tradiciji, jedna je od pet Monumentalnih klasičnih biciklističkih trka, takođe, deo je i Kaldrmisanih klasika.</desc>
+    <category lang="sl">Biciklistička trka</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/05/fb200524-cae6-4600-a814-517ae513a96e_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412181500 +0000" stop="20260412190000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Biciklizam: Svetska turneja - Pariz-Rube (Ž)</title>
+    <desc lang="sl">Pariz Rube je jednodnevna biciklistička trka koja se održava sredinom aprila na severu Francuske prema granici sa Belgijom. Osnovana je 1896. godine, a od 1968. start je u Šampanji, oko 60 kilometara severoistočno od centra Pariza, a finiš je u Rubeu. Trka je poznata po teškom terenu i kaldrmi. Pratite trku u ženskoj konkurenciji i saznajte ko će poneti pehar prvaka.</desc>
+    <category lang="sl">Biciklizam</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/27/7d746064-57c2-499b-838b-473a9fe5c6ec_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412190000 +0000" stop="20260412203000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Maraton: Pariz</title>
+    <desc lang="sl">Pariški maraton jedna je od najprestižnijih svetskih trka koja je započela s održavanjem još davne 1896. godine. Danas se na njemu okuplja više desetina hiljada takmičara iz celoga sveta.</desc>
+    <category lang="sl">Maraton</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2021/10/15/a6f4d114-e194-44b1-960c-647dafd9425d_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412203000 +0000" stop="20260412220000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Snuker: Tour Championship (Hull): Finale, Džad Tramp - Zhao Xintong</title>
+    <desc lang="sl">Coral Tour Championship je profesionalni rangirni snuker turnir koji se prvi put odigrao tokom sezone 2018/19.</desc>
+    <category lang="sl">Snuker</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/24/ede1bd63_5b75_4079_8c1b_a4bddbf0d77e_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260412220000 +0000" stop="20260413000000 +0000" channel="Eurosport 2 HD (RS)">
+    <title lang="sl">Snuker - UK prvenstvo: Finale</title>
+    <desc lang="sl">Prvenstvo Ujedinjenog Kraljevstva u snukeru profesionalni je snuker turnir koji se održava jednom godišnje. Najveći je rangirni turnir nakon Svetskog prvenstva. Uz Masters i Svetsko prvenstvo, čini sastavni deo Turnira trostruke krune.</desc>
+    <category lang="sl">Snuker</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2023/10/18/475f47d4-2466-4eb6-94f9-317b1cb85726_stb_xl.jpg" />
+    <rating system="SI">
+      <value>1+</value>
+    </rating>
+  </programme>
+  <programme start="20260411023000 +0000" stop="20260411040000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Profesor Babic - The Elder Scrolls Iv: Oblivion</title>
+    <desc lang="sl">Recenzija popularne akcijske igrice koja je objavljena 2006. godine. Četvrti nastavak u serijalu igračima donosi priliku da uđu u svet pun magije u kom moraju da se bore protiv ozloglašenih mitoloških bića.</desc>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/26/3d1532aa-24ac-445c-9087-ac08c3d364af_stb_xl.jpg" />
+  </programme>
+  <programme start="20260411040000 +0000" stop="20260411044500 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Kidarena - Tasteless Rocket League</title>
+    <desc lang="sl">Vodimo vas u svet hibridnog fudbala u kome igrač upravlja automobilom koji nastoji da kontroliše loptu veću od sebe. Cilj igre je, kao i u fudbalu, postići gol.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/26/4656eefc-dea0-4dd4-bf2d-6e0ddf293cfd_stb_xl.jpg" />
+  </programme>
+  <programme start="20260411044500 +0000" stop="20260411054500 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Cold Heart &amp; Snake - Tekken 8</title>
+    <desc lang="sl">Predstavljanje igre Tekken 8 u režiji Cold Heart-a i Snake-a. Igra je, kao i većina borilačkih igara, bazirana na borbi jedan na jedan.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/26/721cd9bb-da17-4951-ada5-af89cb9478fd_xl.jpg" />
+  </programme>
+  <programme start="20260411054500 +0000" stop="20260411061500 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Kidarena - Tkdspale - Fortnite Racing</title>
+    <desc lang="sl">Pratite isečak adrenalinske trke i uživajte u brzini najboljih automobila.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/26/4656eefc-dea0-4dd4-bf2d-6e0ddf293cfd_stb_xl.jpg" />
+  </programme>
+  <programme start="20260411061500 +0000" stop="20260411074500 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Profesor Babić i Fortnite Chapter 7</title>
+    <desc lang="sl">Donosimo vam recenziju popularne igrice "Fortnite" koja je objavljena 2017. godine. Otkrijte neke nove trikove koji će vam pomoći da lakše savladate sve nivoe.</desc>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/11/83b44aac_7c68_41bd_9af7_74bb3043598f_stb_xl.jpg" />
+  </programme>
+  <programme start="20260411074500 +0000" stop="20260411083000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Migzi I Bajica - Split Fiction</title>
+    <desc lang="sl">Migzi i Bajica nas vode kroz kooperativnu avanturu u "Split Fiction", igri koja spaja fantaziju i naučnu fantastiku.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/17/aceb65c1_b0a2_47ba_82c1_11cc67e8bc7c_xl.jpg" />
+  </programme>
+  <programme start="20260411083000 +0000" stop="20260411090000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">CaoTutiFruti Je Astrobot 2</title>
+    <desc lang="sl">Isprobavamo popularnu igricu uz stručne komentare našeg iskusnog domaćina. "Astro Bot" je objavljen 2024. godine i peti je nastavak popularne franšize u kojoj se kombinuju akcija i avantura.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/24/30981801-f881-433c-9c13-5b3232f45aba_stb_xl.jpg" />
+  </programme>
+  <programme start="20260411090000 +0000" stop="20260411103000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Tasteless-ove Avanture - Escape From Duckov</title>
+    <desc lang="sl">Vodimo vas u svet pataka i predstavljamo vam igricu u kojoj je glavni zadatak preživljavanje i izgradnja najboljeg skloništa. Ova strategija je objavljena u oktobru 2025. godine i brzo je privukla pažnju igrača iz celog sveta.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/13/57471de8_eb58_4602_869c_fbfadc9d9648_xl.jpg" />
+  </programme>
+  <programme start="20260411103000 +0000" stop="20260411110000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Kidarena - Babic Lego Fortnite</title>
+    <desc lang="sl">Otkrijte nove strategije i neočekivane obrte u svetu Lego Fortnite-a. Poznati gejmer Babić predstaviće novu gejming avanturu.</desc>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/02/4c04dcc5_b496_4ed1_97d2_ffd6fd7f19ac_xl.jpg" />
+  </programme>
+  <programme start="20260411110000 +0000" stop="20260411123000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Retro Migz1 - Prince Of Persia: The Sands Of Time</title>
+    <desc lang="sl">Kroz nostalgičan osvrt, Migz1 analizira priču, inovativnu mehaniku vraćanja vremena i uticaj koji je igra imala na razvoj modernih akciono-avanturističkih naslova.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/17/55c09561_5cec_4c7c_9e60_a3426a37c9d3_xl.jpg" />
+  </programme>
+  <programme start="20260411123000 +0000" stop="20260411131500 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Kidarena - Sarezza Roblox</title>
+    <desc lang="sl">Poznata autorka videozapisa o igrama, Sara Miljković, u svetu igara poznata kao Sarezza, predstavlja nam Roblox.</desc>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/30/35587768-e846-4815-a2c2-3654608b701a_stb_xl.jpg" />
+  </programme>
+  <programme start="20260411131500 +0000" stop="20260411144500 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Legendarni Tkdspale - Apex Legends: S23 "From the Rift"</title>
+    <desc lang="sl">Tkdspale uvodi nas u svet Apex Legends, u kome ćemo pronaći stare heroje sa novim sposobnostima u različitim domenima.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/30/640f16ae-633a-4d10-81cc-7bd196f89014_stb_xl.jpg" />
+  </programme>
+  <programme start="20260411144500 +0000" stop="20260411150000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Lineup Sa Svojićem</title>
+    <desc lang="sl">Poznati gejmer Vukan Svojić vodi nas u svet e-sporta - upoznajte igru Lineup.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/08/23/052f271c-0e02-4dd5-85f0-53d4dc289eb0_stb_xl.jpg" />
+  </programme>
+  <programme start="20260411150000 +0000" stop="20260411190000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">PGL Bucharest: Finale - Tbd</title>
+    <desc lang="sl">Pratite uzbudljiva nadmetanja u popularnoj igrici "Counter-Strike 2"! Najbolji svetski igrači takmiče se za što bolji plasman, ali i osvajanje vrednih novčanih nagrada.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/27/30b3aaa7-1a18-47fc-be33-9ac51e703a35_stb_xl.jpg" />
+  </programme>
+  <programme start="20260411190000 +0000" stop="20260411200000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Cold Heart &amp; Snake - Tekken 8</title>
+    <desc lang="sl">Predstavljanje igre Tekken 8 u režiji Cold Heart-a i Snake-a. Igra je, kao i većina borilačkih igara, bazirana na borbi jedan na jedan.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/26/721cd9bb-da17-4951-ada5-af89cb9478fd_xl.jpg" />
+  </programme>
+  <programme start="20260411200000 +0000" stop="20260411203000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Kidarena - Tkdspale - Fortnite Racing</title>
+    <desc lang="sl">Pratite isečak adrenalinske trke i uživajte u brzini najboljih automobila.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/26/4656eefc-dea0-4dd4-bf2d-6e0ddf293cfd_stb_xl.jpg" />
+  </programme>
+  <programme start="20260411203000 +0000" stop="20260411220000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Migz1 - Clair Obscur: Expedition 33</title>
+    <desc lang="sl">Migz1 nas vodi kroz "gameplay" i daje svoje utiske iz popularne RPG avanture "Clair Obscur: Expedition 33".</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/04/09/bf450a1f_1921_4254_b443_c92e344886cd_stb_xl.jpg" />
+  </programme>
+  <programme start="20260411220000 +0000" stop="20260411233000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Arena Pubg Sa Mausom</title>
+    <desc lang="sl">Popularni gejmer samo za gledaoce naše televizije igra hvaljenu igricu i daje savete koji će vam pomoći da budete još uspešniji u izvršavanju zadataka.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/30/da24fb71-9e77-4d3e-ba85-a4afa0150474_stb_xl.jpg" />
+  </programme>
+  <programme start="20260411233000 +0000" stop="20260412023000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">ESL Pro Liga: 3dmax Vs Liquid</title>
+    <desc lang="sl">ESL Pro Liga je najveća liga e-sportova na svetu, i donosi sport u svom najčistijem obliku, sa najvećim i najjačim timovima koji se međusobno takmiče.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/29/816a3c1c-8dd9-459e-96ce-3ecbabf51cf9_stb_xl.jpg" />
+  </programme>
+  <programme start="20260412023000 +0000" stop="20260412040000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Profesor Babic - The Elder Scrolls Iv: Oblivion</title>
+    <desc lang="sl">Recenzija popularne akcijske igrice koja je objavljena 2006. godine. Četvrti nastavak u serijalu igračima donosi priliku da uđu u svet pun magije u kom moraju da se bore protiv ozloglašenih mitoloških bića.</desc>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/26/3d1532aa-24ac-445c-9087-ac08c3d364af_stb_xl.jpg" />
+  </programme>
+  <programme start="20260412040000 +0000" stop="20260412044500 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Kidarena - Sarezza Roblox</title>
+    <desc lang="sl">Poznata autorka videozapisa o igrama, Sara Miljković, u svetu igara poznata kao Sarezza, predstavlja nam Roblox.</desc>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/30/35587768-e846-4815-a2c2-3654608b701a_stb_xl.jpg" />
+  </programme>
+  <programme start="20260412044500 +0000" stop="20260412053000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Arkadne Legende - Cold Heart &amp; Snake</title>
+    <desc lang="sl">Pođite sa nama na putovanje u prošlost i prisetite se nekih legendarnih arkadnih igara.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/26/721cd9bb-da17-4951-ada5-af89cb9478fd_xl.jpg" />
+  </programme>
+  <programme start="20260412053000 +0000" stop="20260412060000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Kidarena - Migzi Yooka Replaylee</title>
+    <desc lang="sl">Emisija posvećena popularnoj platformerskoj igri kombinuje pregled ključnih delova igre, komentare i zanimljivosti iz razvoja, kao i najave za gejming fanove.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/02/24/c7cd6902_7072_4971_84de_ba1c1c6cbb85_xl.jpg" />
+  </programme>
+  <programme start="20260412060000 +0000" stop="20260412063000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Kidarena - Babic Lego Fortnite</title>
+    <desc lang="sl">Otkrijte nove strategije i neočekivane obrte u svetu Lego Fortnite-a. Poznati gejmer Babić predstaviće novu gejming avanturu.</desc>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/02/4c04dcc5_b496_4ed1_97d2_ffd6fd7f19ac_xl.jpg" />
+  </programme>
+  <programme start="20260412063000 +0000" stop="20260412080000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Tasteless LoL-uje</title>
+    <desc lang="sl">Gejmer Crvene Zvezde, Igor Radusinović, provešće vas kroz LOL. Naučite sve što vas zanima o popularnoj igri od našeg profesionalca. Dobra zabava je svakako zagarantovana.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/01/97e11a07-07bf-454f-a0e0-2e858caab4d9_stb_xl.jpg" />
+  </programme>
+  <programme start="20260412080000 +0000" stop="20260412083000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Kidarena - Tkdspale - Fortnite Racing</title>
+    <desc lang="sl">Pratite isečak adrenalinske trke i uživajte u brzini najboljih automobila.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/26/4656eefc-dea0-4dd4-bf2d-6e0ddf293cfd_stb_xl.jpg" />
+  </programme>
+  <programme start="20260412083000 +0000" stop="20260412100000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Profesor Babić i Fortnite Chapter 7</title>
+    <desc lang="sl">Donosimo vam recenziju popularne igrice "Fortnite" koja je objavljena 2017. godine. Otkrijte neke nove trikove koji će vam pomoći da lakše savladate sve nivoe.</desc>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/12/11/83b44aac_7c68_41bd_9af7_74bb3043598f_stb_xl.jpg" />
+  </programme>
+  <programme start="20260412100000 +0000" stop="20260412104500 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Ets2 - West Balkans - Caotutifruti</title>
+    <desc lang="sl">U videoigri "Euro Truck Simulator 2" ćemo se oprobati za volanom kamiona, posetiti zanimljiva mesta širom Evrope i pokušati uspešno dostaviti robu.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/23/e4fb049b-5663-4c71-a6d3-d9736230d61a_stb_xl.jpg" />
+  </programme>
+  <programme start="20260412104500 +0000" stop="20260412113000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Migzi I Bajica - Split Fiction</title>
+    <desc lang="sl">Migzi i Bajica nas vode kroz kooperativnu avanturu u "Split Fiction", igri koja spaja fantaziju i naučnu fantastiku.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/17/aceb65c1_b0a2_47ba_82c1_11cc67e8bc7c_xl.jpg" />
+  </programme>
+  <programme start="20260412113000 +0000" stop="20260412121500 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Kidarena - Tasteless Rocket League</title>
+    <desc lang="sl">Vodimo vas u svet hibridnog fudbala u kome igrač upravlja automobilom koji nastoji da kontroliše loptu veću od sebe. Cilj igre je, kao i u fudbalu, postići gol.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/26/4656eefc-dea0-4dd4-bf2d-6e0ddf293cfd_stb_xl.jpg" />
+  </programme>
+  <programme start="20260412121500 +0000" stop="20260412134500 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Sarezza Minecraft</title>
+    <desc lang="sl">Emisija namenjena svim ljubiteljima igrice "Minecraft". Otkrijte brojne tajne i trikove koji će vam pomoći da unapredite svoje veštine u igranju ove igrice.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/10/07/917641fc-0941-44b6-ac9f-d08cb975528a_stb_xl.jpg" />
+  </programme>
+  <programme start="20260412134500 +0000" stop="20260412143000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Arkadne Legende - Cold Heart &amp; Snake</title>
+    <desc lang="sl">Pođite sa nama na putovanje u prošlost i prisetite se nekih legendarnih arkadnih igara.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2025/09/26/721cd9bb-da17-4951-ada5-af89cb9478fd_xl.jpg" />
+  </programme>
+  <programme start="20260412143000 +0000" stop="20260412160000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Tasteless-ove Avanture - Escape From Duckov</title>
+    <desc lang="sl">Vodimo vas u svet pataka i predstavljamo vam igricu u kojoj je glavni zadatak preživljavanje i izgradnja najboljeg skloništa. Ova strategija je objavljena u oktobru 2025. godine i brzo je privukla pažnju igrača iz celog sveta.</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/01/13/57471de8_eb58_4602_869c_fbfadc9d9648_xl.jpg" />
+  </programme>
+  <programme start="20260412160000 +0000" stop="20260412163000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Kidarena - Babic Lego Fortnite</title>
+    <desc lang="sl">Otkrijte nove strategije i neočekivane obrte u svetu Lego Fortnite-a. Poznati gejmer Babić predstaviće novu gejming avanturu.</desc>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/03/02/4c04dcc5_b496_4ed1_97d2_ffd6fd7f19ac_xl.jpg" />
+  </programme>
+  <programme start="20260412163000 +0000" stop="20260412180000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">Migz1 - Clair Obscur: Expedition 33</title>
+    <desc lang="sl">Migz1 nas vodi kroz "gameplay" i daje svoje utiske iz popularne RPG avanture "Clair Obscur: Expedition 33".</desc>
+    <category lang="sl">eSport</category>
+    <icon src="https://images-web.ug-be.cdn.united.cloud/4762a8b8/2026/04/09/bf450a1f_1921_4254_b443_c92e344886cd_xl.jpg" />
+  </programme>
+  <programme start="20260412180000 +0000" stop="20260412190000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">No information</title>
+  </programme>
+  <programme start="20260412190000 +0000" stop="20260412200000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">No information</title>
+  </programme>
+  <programme start="20260412200000 +0000" stop="20260412210000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">No information</title>
+  </programme>
+  <programme start="20260412210000 +0000" stop="20260412220000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">No information</title>
+  </programme>
+  <programme start="20260412220000 +0000" stop="20260412230000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">No information</title>
+  </programme>
+  <programme start="20260412230000 +0000" stop="20260413000000 +0000" channel="Arena Esport HD (RS)">
+    <title lang="sl">No information</title>
+  </programme>
+</tv>
